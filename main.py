@@ -3,6 +3,7 @@ from BSTree import Tree
 arvore = Tree()
 arvore.inserir(2)
 arvore.inserir(7)
+arvore.inserir(30)
 arvore.inserir(10)
 arvore.inserir(15)
 arvore.inserir(14)
